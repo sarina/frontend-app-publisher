@@ -1,3 +1,5 @@
+🛑🛑🛑 This repo is no longer maintained. If you need to use it, please fork your own version that you maintain. 🛑🛑🛑
+
 # frontend-app-publisher
 
 Publisher integrates with the course discovery, ecommerce, and Studio services and can be used to
